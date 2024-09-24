@@ -1,0 +1,19 @@
+Lineas general 7 a 9
+
+Líneas finas: Entre 7 a 8 voltios.
+
+Líneas gruesas: Entre 8 a 9 voltios.
+
+Sombras generalmente 7 a 9
+
+Sombras suaves 6 a 7
+
+Sombra oscura 8 a 9
+
+Puntillismo de arrastre: 4.5 a 5.5
+
+Relleno claro: Entre 7 a 8 voltios.
+
+Relleno medio: Entre 8 y 9 voltios.
+
+Relleno oscuro: Entre 9 y 10 voltios.
